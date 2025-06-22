@@ -1,6 +1,6 @@
 👋 Hi, I’m Vikash Kumar (@Vikash0089)!
-- 👀 I’m interested in **web development**, especially using **NodeJs**,**React**,**SQL** and **MongoDB**.
-- 🌱 I’m currently learning about **advanced data structures** and **ShadCN UI , **New UI Material **.
+- 👀 I’m interested in **web development**, especially using NodeJs | React | SQL | MongoDB.
+- 🌱 I’m currently learning about | advanced data structures | New UI Material 
 - 💞️ I’m looking to collaborate on **open-source projects involving the MERN stack**.
 - 📫 You can reach me at **vikashtech0089@gmail.com**.
 - 😄 Pronouns: He/Him
